@@ -1,6 +1,6 @@
 # Solar Flare Image Generation with VQ-GAN, SwinIR Super Resolution, and CLIP Extension
 
-Course project for CSC 8851 (Fall 2025), Georgia State University.
+CSC 8851 Deep Learning project (Fall 2025), Georgia State University.
 
 This repository contains code and notebooks for generating and analyzing solar
 flare magnetograms using VQ-GAN, SwinIR based super resolution, and a CLIP
